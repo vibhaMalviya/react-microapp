@@ -1,4 +1,4 @@
-# microapp sse template
+# microapp template
 
 This repo is meant to be used for the creation of new SSE Micro Apps. Just click the [Use This Template](https://github.office.opendns.com/micro-apps/microapp-sse-template/generate) button above to generate a _new_ repository that acts as the foundation of your new Micro App.
 
