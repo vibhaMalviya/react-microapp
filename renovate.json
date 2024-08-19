@@ -1,0 +1,12 @@
+{
+    "extends": [
+        "config:js-app",
+        ":semanticCommits"
+    ],
+    "timezone": "America/Los_Angeles",
+    "dependencyDashboard": true,
+    "dependencyDashboardApproval": true,
+    "labels": [
+        "bot"
+    ]
+}
